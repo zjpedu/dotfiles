@@ -1,6 +1,6 @@
 ### How to Use the dotfiles?
 
-#### vimrc
+#### vimrc 配置方法
 
 0. brew install macvim
 1. git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
