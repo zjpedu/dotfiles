@@ -72,7 +72,7 @@
 
   set shortmess=atI              " Close welcome page
   set fillchars=vert:\ 
-  
+  set cc=80
   set history=1000                " Store lots of :cmdline history
   set noswapfile                  " Don't use swapfile
   set nobackup                    " Don't create annoying backup files
