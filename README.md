@@ -1,4 +1,4 @@
-### How to Use the dotfiles?
+### How to Use the dotfiles on macos?
 
 #### vimrc 配置方法
 
